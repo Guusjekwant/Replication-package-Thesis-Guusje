@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the dataset used for a structured literature review on **AI adoption**.  
+This repository contains the dataset used for a structured literature review on AI adoption.  
 The primary data source is an Excel file that synthesizes academic papers, adoption frameworks, determinants, and derived evaluation criteria.
 
 **File included:**
@@ -15,7 +15,7 @@ The primary data source is an Excel file that synthesizes academic papers, adopt
 
 ## File Structure
 
-The Excel file contains **six worksheets (tabs)**. Each tab represents a distinct stage of the literature review and synthesis process. The tabs are designed to be read **sequentially**, from raw literature to ranked criteria.
+The Excel file contains six worksheets (tabs). Each tab represents a distinct stage of the literature review and synthesis process. The tabs are designed to be read sequentially**, from raw literature to ranked criteria.
 
 ---
 
