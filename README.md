@@ -7,7 +7,6 @@ The primary data source is an Excel file that synthesizes academic papers, adopt
 
 **File included:**
 - `Literature review.xlsx`
-- Additionally: a link to the 
 
 **Format:** Microsoft Excel (.xlsx)  
 **Purpose:** To support transparent, replicable research on AI adoption theories, adoption determinants, and evaluation criteria.
